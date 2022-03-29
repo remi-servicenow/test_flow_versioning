@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_kmf_crypto_caller_policy">
+    <sys_kmf_crypto_caller_policy action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <approval_type/>
+        <check_script_hash>false</check_script_hash>
+        <crypto_module display_value="com_glide_certificates_glideencrypter">8994cbe3ff23201022f462aa453bf13d</crypto_module>
+        <crypto_spec/>
+        <granular_operation/>
+        <impersonation>false</impersonation>
+        <instance_recipient/>
+        <owner>ad24f851dbf2701091232f17d496196e</owner>
+        <policy_name>AutoGen-script-d1eff296e7502300ba990558d2f6a9ad-global.com_glide_certificates_glideencrypter</policy_name>
+        <result>reject</result>
+        <script_hash>YTfLpehBQ2W/Z/6ZL8pVEx1Wq18SdQplCIX89ulEGzs=</script_hash>
+        <script_table>sysauto_script</script_table>
+        <signature_data/>
+        <specify_purpose>false</specify_purpose>
+        <sys_class_name>sys_kmf_crypto_caller_policy</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-29 14:56:27</sys_created_on>
+        <sys_id>1373571587e201102baa54e73cbb3597</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>AutoGen-script-d1eff296e7502300ba990558d2f6a9ad-global.com_glide_certificates_glideencrypter</sys_name>
+        <sys_package display_value="TestFlowVersioning" source="x_snc_testflowvers">5dbf47d987e201109b46dd783cbb3569</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TestFlowVersioning">5dbf47d987e201109b46dd783cbb3569</sys_scope>
+        <sys_update_name>sys_kmf_crypto_caller_policy_1373571587e201102baa54e73cbb3597</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-29 14:56:27</sys_updated_on>
+        <target_role/>
+        <target_scope display_value="TestFlowVersioning">5dbf47d987e201109b46dd783cbb3569</target_scope>
+        <target_script>d1eff296e7502300ba990558d2f6a9ad</target_script>
+        <type>1</type>
+        <used>false</used>
+    </sys_kmf_crypto_caller_policy>
+</record_update>
